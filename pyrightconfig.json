@@ -1,0 +1,1 @@
+{"include": ["**/*.py"], "exclude": ["**/__pycache__/**"], "reportUnknownMemberType": false, "reportUnknownArgumentType": false, "reportUnknownParameterType": false, "reportPrivateUsage": false, "reportAny": false, "pythonVersion": "3.10"}
